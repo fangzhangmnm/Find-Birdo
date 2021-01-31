@@ -128,7 +128,8 @@ MonoBehaviour:
   seat: {fileID: 335970434154345080}
   isSitting: 0
   isOccupied: 0
-  enableWhenSit: []
+  enableWhenSit:
+  - {fileID: 1024286396589451250}
   onSit:
     m_PersistentCalls:
       m_Calls: []

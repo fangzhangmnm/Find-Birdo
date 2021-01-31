@@ -517,6 +517,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1880802850823076272, guid: b33a211870d029749957b1e9f9cfa009, type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3386394083232988380, guid: b33a211870d029749957b1e9f9cfa009, type: 3}
       propertyPath: m_Layer
       value: 13

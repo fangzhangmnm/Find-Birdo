@@ -3485,6 +3485,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6176594056784618195, guid: f308ea528f7deb1418bf3e65e4ce22fb, type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 6176594056784618198, guid: f308ea528f7deb1418bf3e65e4ce22fb, type: 3}
       propertyPath: m_Name
       value: DashboardUGUI

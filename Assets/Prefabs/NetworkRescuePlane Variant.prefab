@@ -403,6 +403,10 @@ PrefabInstance:
       propertyPath: sectionLength
       value: 8.29649
       objectReference: {fileID: 0}
+    - target: {fileID: 5097287735924878628, guid: 6af616d7ffaef924cb6e9384e50e71a1, type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5319842862135468351, guid: 6af616d7ffaef924cb6e9384e50e71a1, type: 3}
       propertyPath: onSit.m_PersistentCalls.m_Calls.Array.size
       value: 1
