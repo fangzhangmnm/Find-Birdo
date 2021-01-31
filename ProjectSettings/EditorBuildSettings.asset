@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/LoginScene.unity
     guid: 0f2e89c78dec79849b177dd4ddd6e785
   - enabled: 0
@@ -15,7 +15,7 @@ EditorBuildSettings:
     path: Assets/Scenes/OfflineTest.unity
     guid: fe1b0cc8c86b11747b3a6a155607eb29
   - enabled: 1
-    path: Assets/Scenes/islands.unity
+    path: Assets/Scenes/Islands.unity
     guid: c444399d2169d7b44b6255d3a1661aec
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 81e3f7e5644232848965edf8bf2fcae8, type: 2}

@@ -15,7 +15,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &920764577354368178
 Transform:
@@ -47,11 +47,11 @@ LODGroup:
   m_AnimateCrossFading: 0
   m_LastLODIsBillboard: 0
   m_LODs:
-  - screenRelativeHeight: 0.3
+  - screenRelativeHeight: 0.1
     fadeTransitionWidth: 0
     renderers:
     - renderer: {fileID: 907054085265032783}
-  - screenRelativeHeight: 0.03
+  - screenRelativeHeight: 0.01
     fadeTransitionWidth: 0
     renderers:
     - renderer: {fileID: 1947423249323085644}
@@ -127,6 +127,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BillBoardX
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2507896867e14c44ea0337bc865c2179, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2507896867e14c44ea0337bc865c2179, type: 3}
 --- !u!4 &814465421043479587 stripped
@@ -149,6 +153,10 @@ PrefabInstance:
     - target: {fileID: 1000010553923468, guid: 34d656d09a8bdc34fb87235b66766a79, type: 3}
       propertyPath: m_Name
       value: palm-big
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010553923468, guid: 34d656d09a8bdc34fb87235b66766a79, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4000011173983506, guid: 34d656d09a8bdc34fb87235b66766a79, type: 3}
       propertyPath: m_RootOrder

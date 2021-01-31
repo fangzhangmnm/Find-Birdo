@@ -66,14 +66,14 @@ Material:
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 10
-    - _FlowWaveFactor: 1
+    - _FlowWaveFactor: 0.559
     - _FoamAmount: 1
     - _FoamDistance: 50
     - _FoamDistort: 0.2
-    - _FoamFade: 1
+    - _FoamFade: 0.184
     - _FoamHardEdge: 0.5
-    - _FoamMaxDepth: 0.8
-    - _FoamMinDepth: 0.2
+    - _FoamMaxDepth: 0.95909095
+    - _FoamMinDepth: 0.8477273
     - _FoamSoftNoise: 0.5
     - _FoamSoftness: 1
     - _FoamSpeed: 1
@@ -94,7 +94,7 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 5
     - _Style: 1
-    - _SurfaceDistort: 0.165
+    - _SurfaceDistort: 0.389
     - _SurfaceSpeed: 0.507
     - _SurfaceStrength: 0.108
     - _SurfaceTiling: 0.2
@@ -102,9 +102,9 @@ Material:
     - _UVSec: 0
     - _VertexData: 0
     - _WaterDepthCutoff: 17.6
-    - _WaveAmount: 0.862
-    - _WaveSpeed: 0.5
-    - _WaveStrength: 0.5
+    - _WaveAmount: 0.652
+    - _WaveSpeed: 0.533
+    - _WaveStrength: 0.572
     - _WaveUseWorld: 1
     - _ZWrite: 0
     m_Colors:

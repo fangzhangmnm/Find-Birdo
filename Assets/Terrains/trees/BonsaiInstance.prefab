@@ -15,7 +15,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &8697705340948594497
 Transform:
@@ -47,11 +47,11 @@ LODGroup:
   m_AnimateCrossFading: 0
   m_LastLODIsBillboard: 0
   m_LODs:
-  - screenRelativeHeight: 0.3
+  - screenRelativeHeight: 0.1
     fadeTransitionWidth: 0
     renderers:
     - renderer: {fileID: 8711582973857305295}
-  - screenRelativeHeight: 0.03
+  - screenRelativeHeight: 0.01
     fadeTransitionWidth: 0
     renderers:
     - renderer: {fileID: 8031573232964615454}
@@ -127,6 +127,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BillBoardX
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2507896867e14c44ea0337bc865c2179, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2507896867e14c44ea0337bc865c2179, type: 3}
 --- !u!4 &9168991917491078769 stripped
@@ -149,6 +153,10 @@ PrefabInstance:
     - target: {fileID: 1000010375850444, guid: 5ecde3e63a2f64f7d8ab8f189a52c8c0, type: 3}
       propertyPath: m_Name
       value: tree-bonsai
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010375850444, guid: 5ecde3e63a2f64f7d8ab8f189a52c8c0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4000012652921196, guid: 5ecde3e63a2f64f7d8ab8f189a52c8c0, type: 3}
       propertyPath: m_RootOrder

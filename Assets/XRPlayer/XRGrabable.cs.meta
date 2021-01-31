@@ -3,7 +3,13 @@ guid: e07cfbf2c45d3aa4f9f8d0940205446c
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - attachRef: {instanceID: 0}
+  - attach2Ref: {instanceID: 0}
+  - jointSettings: {fileID: 11400000, guid: 3a30c5c1acd1d7849bd3d8ff7ab338fa, type: 2}
+  - outline: {instanceID: 0}
+  - hand: {instanceID: 0}
+  - hand2: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
